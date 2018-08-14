@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MasterPage_MVVM.Constants.ColorAndThicknessConstants">
+    
+    <!--Color constants-->
+    <Color x:Key="White">#FFFFFF</Color>
+    <Color x:Key="LiteBlue">#5DD6E5</Color>
+    <Color x:Key="Black">Black</Color>
+
+    <!--Thickness constants-->
+    <Thickness x:Key="5_5_5_5" Left="5" Top="5" Right="5" Bottom="5" />
+</ResourceDictionary>

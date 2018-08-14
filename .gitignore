@@ -1,0 +1,9 @@
+Code/.vs/MasterPage_MVVM/DesignTimeBuild/.dtbcache
+Code/.vs/
+Code/MasterPage_MVVM/MasterPage_MVVM.Android/bin/
+Code/MasterPage_MVVM/MasterPage_MVVM.Android/obj/
+*.dll
+Code/MasterPage_MVVM/MasterPage_MVVM.iOS/bin/
+Code/MasterPage_MVVM/MasterPage_MVVM.iOS/obj/
+Code/MasterPage_MVVM/MasterPage_MVVM/obj/
+Code/MasterPage_MVVM/MasterPage_MVVM/bin/
