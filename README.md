@@ -19,6 +19,9 @@ In this repository, there is added almost required fields like :
 # How to add new page in MasterPage?
 Add new page in masterpage in MainPage.xaml.cs file.
 
+Here, code is written in Mainpage.xml.cs file.
+      
+      ...
       public MainPage()
       {
          InitializeComponent();
@@ -42,3 +45,4 @@ Add new page in masterpage in MainPage.xaml.cs file.
          // Initial navigation, this can be used for our home page
          Detail = new NavigationPage((Page)Activator.CreateInstance(typeof(Views.Page1)));
         }
+        ...
